@@ -1,3 +1,4 @@
 #!/bin/bash
-systemctl stop httpd
+# Stop Apache HTTP Server
+sudo systemctl stop httpd
 
